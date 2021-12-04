@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PS213020_Server.BussinessLogic.Core\PS213020_Server.BussinessLogic.Core.csproj" />
+    <ProjectReference Include="..\PS213020_Server.DataAccess.Core\PS213020_Server.DataAccess.Core.csproj" />
+  </ItemGroup>
+
+</Project>

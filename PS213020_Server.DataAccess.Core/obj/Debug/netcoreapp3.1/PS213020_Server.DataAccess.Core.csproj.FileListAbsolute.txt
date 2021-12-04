@@ -1,0 +1,6 @@
+C:\Users\StudentDev\Desktop\PS213020_Server\PS213020_Server.DataAccess.Core\bin\Debug\netcoreapp3.1\PS213020_Server.DataAccess.Core.deps.json
+C:\Users\StudentDev\Desktop\PS213020_Server\PS213020_Server.DataAccess.Core\bin\Debug\netcoreapp3.1\PS213020_Server.DataAccess.Core.dll
+C:\Users\StudentDev\Desktop\PS213020_Server\PS213020_Server.DataAccess.Core\obj\Debug\netcoreapp3.1\PS213020_Server.DataAccess.Core.AssemblyInfoInputs.cache
+C:\Users\StudentDev\Desktop\PS213020_Server\PS213020_Server.DataAccess.Core\obj\Debug\netcoreapp3.1\PS213020_Server.DataAccess.Core.AssemblyInfo.cs
+C:\Users\StudentDev\Desktop\PS213020_Server\PS213020_Server.DataAccess.Core\obj\Debug\netcoreapp3.1\PS213020_Server.DataAccess.Core.csprojAssemblyReference.cache
+C:\Users\StudentDev\Desktop\PS213020_Server\PS213020_Server.DataAccess.Core\obj\Debug\netcoreapp3.1\PS213020_Server.DataAccess.Core.csproj.CoreCompileInputs.cache

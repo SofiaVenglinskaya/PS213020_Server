@@ -1,0 +1,9 @@
+C:\Users\StudentDev\Desktop\PS213020_Server\PS213020_Server.BussinessLogic.Core\bin\Debug\netcoreapp3.1\PS213020_Server.BussinessLogic.Core.deps.json
+C:\Users\StudentDev\Desktop\PS213020_Server\PS213020_Server.BussinessLogic.Core\bin\Debug\netcoreapp3.1\PS213020_Server.BussinessLogic.Core.dll
+C:\Users\StudentDev\Desktop\PS213020_Server\PS213020_Server.BussinessLogic.Core\bin\Debug\netcoreapp3.1\PS213020_Server.BussinessLogic.Core.pdb
+C:\Users\StudentDev\Desktop\PS213020_Server\PS213020_Server.BussinessLogic.Core\obj\Debug\netcoreapp3.1\PS213020_Server.BussinessLogic.Core.csprojAssemblyReference.cache
+C:\Users\StudentDev\Desktop\PS213020_Server\PS213020_Server.BussinessLogic.Core\obj\Debug\netcoreapp3.1\PS213020_Server.BussinessLogic.Core.AssemblyInfoInputs.cache
+C:\Users\StudentDev\Desktop\PS213020_Server\PS213020_Server.BussinessLogic.Core\obj\Debug\netcoreapp3.1\PS213020_Server.BussinessLogic.Core.AssemblyInfo.cs
+C:\Users\StudentDev\Desktop\PS213020_Server\PS213020_Server.BussinessLogic.Core\obj\Debug\netcoreapp3.1\PS213020_Server.BussinessLogic.Core.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\Desktop\PS213020_Server\PS213020_Server.BussinessLogic.Core\obj\Debug\netcoreapp3.1\PS213020_Server.BussinessLogic.Core.dll
+C:\Users\StudentDev\Desktop\PS213020_Server\PS213020_Server.BussinessLogic.Core\obj\Debug\netcoreapp3.1\PS213020_Server.BussinessLogic.Core.pdb
