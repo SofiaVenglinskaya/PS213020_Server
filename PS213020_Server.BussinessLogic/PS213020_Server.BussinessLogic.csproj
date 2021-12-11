@@ -11,6 +11,7 @@
   <ItemGroup>
     <ProjectReference Include="..\PS213020_Server.BussinessLogic.Core\PS213020_Server.BussinessLogic.Core.csproj" />
     <ProjectReference Include="..\PS213020_Server.DataAccess.Core\PS213020_Server.DataAccess.Core.csproj" />
+    <ProjectReference Include="..\PS213020_Server.Shared\PS213020_Server.Shared.csproj" />
   </ItemGroup>
 
 </Project>

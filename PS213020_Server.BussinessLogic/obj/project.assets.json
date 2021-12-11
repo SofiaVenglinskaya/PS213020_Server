@@ -269,6 +269,16 @@
         "runtime": {
           "bin/placeholder/PS213020_Server.DataAccess.Core.dll": {}
         }
+      },
+      "PS213020_Server.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/PS213020_Server.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PS213020_Server.Shared.dll": {}
+        }
       }
     }
   },
@@ -833,13 +843,19 @@
       "type": "project",
       "path": "../PS213020_Server.DataAccess.Core/PS213020_Server.DataAccess.Core.csproj",
       "msbuildProject": "../PS213020_Server.DataAccess.Core/PS213020_Server.DataAccess.Core.csproj"
+    },
+    "PS213020_Server.Shared/1.0.0": {
+      "type": "project",
+      "path": "../PS213020_Server.Shared/PS213020_Server.Shared.csproj",
+      "msbuildProject": "../PS213020_Server.Shared/PS213020_Server.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "AutoMapper >= 10.1.1",
       "PS213020_Server.BussinessLogic.Core >= 1.0.0",
-      "PS213020_Server.DataAccess.Core >= 1.0.0"
+      "PS213020_Server.DataAccess.Core >= 1.0.0",
+      "PS213020_Server.Shared >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -878,6 +894,9 @@
             },
             "C:\\Users\\StudentDev\\Desktop\\PS213020_Server\\PS213020_Server.DataAccess.Core\\PS213020_Server.DataAccess.Core.csproj": {
               "projectPath": "C:\\Users\\StudentDev\\Desktop\\PS213020_Server\\PS213020_Server.DataAccess.Core\\PS213020_Server.DataAccess.Core.csproj"
+            },
+            "C:\\Users\\StudentDev\\Desktop\\PS213020_Server\\PS213020_Server.Shared\\PS213020_Server.Shared.csproj": {
+              "projectPath": "C:\\Users\\StudentDev\\Desktop\\PS213020_Server\\PS213020_Server.Shared\\PS213020_Server.Shared.csproj"
             }
           }
         }
