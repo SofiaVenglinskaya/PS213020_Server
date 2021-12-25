@@ -8,5 +8,26 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.22">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.22" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.22">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PS213020_Server.BussinessLogic.Core\PS213020_Server.BussinessLogic.Core.csproj" />
+    <ProjectReference Include="..\PS213020_Server.BussinessLogic\PS213020_Server.BussinessLogic.csproj" />
+    <ProjectReference Include="..\PS213020_Server.Core\PS213020_Server.Core.csproj" />
+    <ProjectReference Include="..\PS213020_Server.DataAccess\PS213020_Server.DataAccess.csproj" />
+  </ItemGroup>
+
 
 </Project>
